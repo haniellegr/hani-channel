@@ -1,0 +1,6 @@
+# legendas brutas (intermediárias, regeneráveis por ferramentas/extrair-transcricoes.sh)
+dados/transcricoes-vtt/
+
+# temporários
+*.tmp
+_amostra.txt
