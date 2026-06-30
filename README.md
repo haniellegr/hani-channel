@@ -25,6 +25,8 @@ docs/
   02-dna-e-estrutura.md    — a assinatura destilada das transcrições (voz, retórica)
   03-adaptacao-ingles.md   — playbook de adaptação pro canal em inglês
   04-plano-lancamento.md   — primeiros passos do canal da Hani
+  05-engine-de-pautas.md   — mineração e seleção de temas (fontes + scorecard)
+  06-workflow-de-producao.md — pipeline por vídeo + footage de terceiros (legal)
 ferramentas/
   extrair-transcricoes.sh  — baixa as auto-legendas (pt-orig) do canal todo
   limpar_vtt.py            — converte .vtt em texto corrido limpo
