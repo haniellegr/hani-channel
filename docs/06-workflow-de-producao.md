@@ -44,14 +44,44 @@ arriscada, usada cirurgicamente.
 3. **Reportagem/jornal**: tem Content ID forte. Usar pouco, curto, com comentário —
    ou trocar pelo **print da manchete** em vez do vídeo.
 
-### Regras práticas pra reduzir claim
-- Clipe curto, sempre cortando de volta pra ela falando (transformação visível).
-- Comentário substancial por cima (não deixar o clipe "rodar sozinho").
-- Print/screenshot no lugar do vídeo sempre que possível.
-- Creditar a fonte na tela/descrição quando fizer sentido.
-- Nunca reupar conteúdo inteiro de outra pessoa.
-- Música: só de biblioteca livre de direitos (YouTube Audio Library, etc.) — música
-  comercial é claim na hora.
+## Clipes de TikTok (a rotina react — decidido)
+
+A Hani vai querer mostrar **clipes reais, geralmente de TikTok**. Dá pra fazer — é o
+modelo de canal de comentário — desde que os clipes virem **ilustração/evidência da
+tese dela**, não o vídeo inteiro. A voz/reflexão dela é a espinha; o clipe é a prova.
+
+### O maior risco no TikTok é a MÚSICA
+A trilha do TikTok é licenciada pro TikTok, **não pro YouTube** → Content ID na hora.
+O visual do criador também pode gerar claim. A disciplina que mata ~90% do risco:
+
+> **Voz dela por cima + áudio original do clipe abaixado/mutado + clipe curto +
+> cortar de volta pro rosto dela.**
+
+Isso, sozinho, (a) tira a música que dispara o Content ID e (b) torna o uso
+claramente transformativo (comentário, não reupload).
+
+### Regras práticas
+- Clipe **curto**, sempre voltando pra ela falando (transformação visível).
+- **Comentário substancial** por cima — ela nomeia o fenômeno e disseca, não é "olha
+  que doido". Isso é o que torna fair use E o que sustenta monetização (canal de
+  clipe com comentário raso cai em "reused content").
+- **Áudio original abaixado/mutado**; a voz dela manda.
+- **Manter o @ do criador na tela** (a marca do TikTok serve de crédito) + creditar
+  na descrição.
+- Nunca enfileirar vários clipes inteiros (vira compilação, não comentário).
+- Música de fundo só de biblioteca livre (YouTube Audio Library, Uppbeat, Pixabay).
+- Antes de publicar: rodar a checagem de direitos no Studio. Se vier só claim de
+  música, dá pra mutar o trecho; o resto continua.
+
+### Como baixar os clipes
+`ferramentas/baixar-clipes.sh` — recebe uma lista de URLs de TikTok (uma por linha) e
+baixa os .mp4 (yt-dlp pega o TikTok sem marca d'água; o autor já vem no nome do
+arquivo). Os clipes ficam em `dados/clipes/<video>/` e **não vão pro repo**
+(copyright + peso, estão no `.gitignore`).
+
+```bash
+bash ferramentas/baixar-clipes.sh dados/clipes/meu-video urls.txt
+```
 
 ## O pipeline por vídeo (ponta a ponta)
 
@@ -59,8 +89,9 @@ arriscada, usada cirurgicamente.
    "Have you ever noticed...".
 2. **Roteiro**: aplicar a estrutura da DNA (`02`) — gancho → escada de exemplos →
    nomear o fenômeno → desnormalizar → fecho íntimo.
-3. **Levantar o visual**: listar os B-rolls/prints que ilustram cada bloco. Evergreen:
-   B-roll de stock. Trend-hook: o snippet/print do caso (tier 2/3).
+3. **Levantar o visual**: listar o que ilustra cada bloco. Evergreen: B-roll de stock.
+   React/trend: colar as URLs dos TikToks num `urls.txt` e rodar
+   `baixar-clipes.sh` pra pasta do vídeo (lembrar das regras de clipe acima).
 4. **Gravar** o talking-head (áudio é prioridade).
 5. **Editar**: intercalar talking-head + B-roll/prints + texto na tela pro "rótulo do
    fenômeno". Cortes de respiração. Sem firula.

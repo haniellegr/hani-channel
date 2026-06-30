@@ -1,6 +1,9 @@
 # legendas brutas (intermediárias, regeneráveis por ferramentas/extrair-transcricoes.sh)
 dados/transcricoes-vtt/
 
+# clipes de terceiros baixados (copyright + peso) — nunca vão pro repo
+dados/clipes/
+
 # temporários
 *.tmp
 _amostra.txt
