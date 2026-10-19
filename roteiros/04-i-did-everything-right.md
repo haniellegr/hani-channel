@@ -7,7 +7,7 @@
 - **Pilar:** corpo e rotina · **Tipo:** evergreen
 - **Fenômeno (rótulo na tela):** **Allostatic Load** (termo científico já existente,
   Bruce McEwen; dar crédito)
-- **Duração-alvo:** 8–10 min
+- **Duração-alvo:** 5–7 min (~660 palavras faladas, mais as pausas nas folhas)
 - **Produção:** Hani falando + as duas folhas de bioimpedância (maio x setembro) em
   close + B-roll da rotina (mercado, cozinha, marmitas, academia) + fotos das férias.
 - **Tirzepatida:** só uma menção no bloco 7; o assunto ganha vídeo próprio depois.
