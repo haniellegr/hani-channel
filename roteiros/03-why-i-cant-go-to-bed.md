@@ -27,6 +27,8 @@
    das 21h", com velas, banho e preparo pra dormir. O difícil é manter.
 8. Dormiu bem pela última vez nas férias: perto de um parque, com a família, celular
    de lado, e a mãe e a irmã cuidaram da cozinha — alívio das "300 tarefas" diárias.
+9. Mesmo cansada, se esforça pra continuar acordada, fazendo coisas ou no celular:
+   "meu cérebro não quer desligar à noite".
 
 **Insight central (saiu da resposta 8):** o sono voltou quando alguém tirou as tarefas
 dela. O problema não é a noite, é o dia — e o trabalho que começa depois do trabalho.
@@ -54,6 +56,8 @@ really about the night. It was about everything the day leaves for it.
 - Recomendação de 7+ horas por noite para adultos (CDC / American Academy of Sleep Medicine).
 - Sono curto x hormônios do apetite (grelina/leptina) e peso: usar revisão científica.
 - Cronotipo ("night owl") tem componente biológico: não afirmar que é só hábito.
+- Estresse e estado de alerta à noite (*hyperarousal*, cortisol que não cai): usar
+  fonte confiável. "Tired but wired" é expressão popular, não termo científico.
 
 ---
 
@@ -100,7 +104,7 @@ So I have to ask myself: was I born a night owl? Or was I trained to be one? May
 
 `[TC]`
 
-When I look at my evenings honestly, I can see three things going on.
+When I look at my evenings honestly, I can see four things going on.
 
 **One: the night is the only time that feels like mine.**
 
@@ -123,6 +127,16 @@ There's a name for this too. Back in 1989, the sociologist Arlie Hochschild call
 `[BR: dedo rolando o feed; "next episode in 5 seconds"]`
 
 A book has a last page. A feed doesn't. And streaming starts the next episode before I've even decided if I want it. On top of that, the light from screens tells my brain it's still daytime. `[checar fonte]`
+
+**Four: my brain doesn't want to switch off.**
+
+`[TC — mais devagar]`
+
+And this is the strangest part. I'm exhausted. And I still fight to stay awake. I keep doing things, I keep scrolling, like I'm actively resisting sleep.
+
+`[TEXT: TIRED BUT WIRED]`
+
+People have a name for this feeling: *tired but wired*. Your body is done, but your mind is still running, like the day hasn't let go of it yet. From what I've read, stress can keep the body in alert mode, even at night, when it should be slowing down. `[checar fonte]` And maybe that's why the phone feels so good at that hour. It's not rest. It just keeps my brain busy enough that I don't have to feel how tired I am.
 
 ### 5 · O custo real
 
