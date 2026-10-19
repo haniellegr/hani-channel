@@ -5,7 +5,8 @@
 > dela; nada foi inventado.
 
 - **Pilar:** sono e ritmo · **Tipo:** evergreen
-- **Fenômeno (rótulo na tela):** **Revenge Bedtime Procrastination** + a virada
+- **Fenômeno (rótulo na tela):** **Bedtime Procrastination** (termo científico,
+  Kroese et al., 2014) → **Revenge Bedtime Procrastination** (versão popular) + a virada
   **The Second Shift** (dois termos já existentes; dar crédito, não inventar nomes)
 - **Duração-alvo:** 7–9 min (~950 palavras faladas; dá pra crescer com pausas e B-roll)
 - **Produção:** Hani falando + B-roll próprio gravado à noite (celular no escuro,
@@ -82,7 +83,11 @@ I've been doing this for as long as I can remember. So today I want to figure ou
 
 `[TC]`
 
-It turns out this has a name. Researchers call it *bedtime procrastination*: going to bed later than you planned, when nothing is actually stopping you.
+It turns out this has a name, and it's an actual scientific term. In 2014, a group of researchers in the Netherlands called it *bedtime procrastination*: going to bed later than you planned, when nothing is actually stopping you.
+
+`[TEXT: BEDTIME PROCRASTINATION — Kroese et al., 2014]`
+
+So yes. Procrastination. The same thing we do with the work we don't want to start, we do with sleep.
 
 `[TEXT: REVENGE BEDTIME PROCRASTINATION]`
 
