@@ -7,7 +7,7 @@
 - **Pilar:** sono e ritmo · **Tipo:** evergreen
 - **Fenômeno (rótulo na tela):** **Revenge Bedtime Procrastination** + a virada
   **The Second Shift** (dois termos já existentes; dar crédito, não inventar nomes)
-- **Duração-alvo:** 12–15 min (~1.600 palavras faladas)
+- **Duração-alvo:** 7–9 min (~950 palavras faladas; dá pra crescer com pausas e B-roll)
 - **Produção:** Hani falando + B-roll próprio gravado à noite (celular no escuro,
   louça na pia, marmitas, skincare, velas, série na TV) + fotos/vídeos das férias perto
   do parque. Tipografia nos rótulos.
