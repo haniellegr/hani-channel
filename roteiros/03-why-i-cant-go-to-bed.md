@@ -3,6 +3,9 @@
 > **Primeiro roteiro do pivô wellness (ver `docs/07`).** Versão 2: escrito a partir da
 > entrevista da Hani (resumo abaixo). Tudo o que é pessoal no texto veio das respostas
 > dela; nada foi inventado.
+>
+> **Pra ensaiar e gravar:** `03-leitura.md` tem só a fala, com pausas, ênfases e
+> palavras difíceis marcadas dentro do texto.
 
 - **Pilar:** sono e ritmo · **Tipo:** evergreen
 - **Fenômeno (rótulo na tela):** **Bedtime Procrastination** (termo científico,
