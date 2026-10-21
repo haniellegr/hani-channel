@@ -8,7 +8,7 @@
 - **Fenômeno (rótulo na tela):** **Bedtime Procrastination** (termo científico,
   Kroese et al., 2014) → **Revenge Bedtime Procrastination** (versão popular) + a virada
   **The Second Shift** (dois termos já existentes; dar crédito, não inventar nomes)
-- **Duração-alvo:** 7–9 min (~950 palavras faladas; dá pra crescer com pausas e B-roll)
+- **Duração-alvo:** 8–10 min (~1.100 palavras faladas)
 - **Produção:** Hani falando + B-roll próprio gravado à noite (celular no escuro,
   louça na pia, marmitas, skincare, velas, série na TV) + fotos/vídeos das férias perto
   do parque. Tipografia nos rótulos.
@@ -60,14 +60,43 @@ really about the night. It was about everything the day leaves for it.
 - Estresse e estado de alerta à noite (*hyperarousal*, cortisol que não cai): usar
   fonte confiável. "Tired but wired" é expressão popular, não termo científico.
 
+## Guia de pronúncia
+
+**Como ler as marcações do script:**
+- `[PRON]`, no começo de cada bloco: as palavras com mais chance de travar.
+  MAIÚSCULAS = sílaba tônica. Entre aspas, um "aportuguesado" aproximado, só pra
+  lembrar o som. Pra ouvir o som real, buscar a palavra no **Youglish**
+  (youglish.com), que mostra nativos falando a palavra em vídeos do YouTube.
+- `[ÊNFASE]`: as palavras pra destacar e onde pausar (`/` = pausa).
+
+**Os sons que mais aparecem neste roteiro:**
+1. **th sem voz** (língua entre os dentes, só sopro): *thing, three, thirty, think, nothing*.
+2. **th com voz** (mesma posição, vibrando): *the, this, that, there, Netherlands*.
+3. **-ed no fim:** só vira sílaba "id" depois de t ou d (*started, decided*). No resto,
+   é só um som colado: *planned* ("plénd"), *helped* ("hélpt"), *worked* ("uârkt"),
+   *trained* ("trêind").
+4. **Vogal longa:** *sleep, feel, keep, need, week* têm "i" comprido ("sliiip").
+   *Sleep* curto vira *slip* (escorregar).
+5. **H:** soprado, bem leve, em *home, hold, harder, hormones, hunger*; mudo em
+   *hours* e *honestly*.
+6. **Sem "i" no fim:** *twelve, revenge, phone, night, work* terminam na consoante
+   ("tuélv", não "tuélvi").
+
+**Como ensaiar (uns 10 min por bloco):** ler em voz alta seguindo as marcações →
+gravar no celular → ouvir e anotar no máximo 3 ajustes → gravar de novo.
+
 ---
 
 # SCRIPT
 
-> `[TC]` to camera · `[BR]` b-roll · `[TEXT]` tipografia. Fala pra teleprompter:
-> se alguma frase não soar como você, troca por como você diria.
+> `[TC]` to camera · `[BR]` b-roll · `[TEXT]` tipografia · `[PRON]` pronúncia ·
+> `[ÊNFASE]` destaque e pausas. Fala pra teleprompter: se alguma frase não soar como
+> você, troca por como você diria.
 
 ### 1 · Gancho pessoal (0–30s)
+
+`[PRON: Saturday = SA-tur-day ("SÉ-ter-dei") · episode = E-pi-sode ("É-pi-sôud") · groceries = GRO-ce-ries ("GRÔU-sriz") · tomorrow = to-MOR-row · figure out = FIG-ure ("FÍ-guier")]`
+`[ÊNFASE: "one MORE episode" · "I just... / WON'T let it end" · "EXACTLY how I'm going to feel"]`
 
 `[BR: TV acesa no escuro, relógio do celular marcando 2:07]`
 
@@ -80,6 +109,9 @@ I spent the whole day cleaning the house, buying groceries, cooking for the week
 I've been doing this for as long as I can remember. So today I want to figure out why.
 
 ### 2 · Nomear o padrão
+
+`[PRON: scientific = scien-TI-fic · researchers = RE-sear-chers ou re-SEAR-chers (as duas valem) · Netherlands = NE-ther-lands (th com voz) · procrastination = pro-cras-ti-NA-tion ("pro-krés-ti-NÊI-shan") · planned = 1 sílaba ("plénd") · revenge = re-VENGE ("ri-VÉNDJ", sem "i" no fim) · Kroese ≈ "KRÚ-se" (nome holandês)]`
+`[ÊNFASE: "an ACTUAL scientific term" · "So yes. / Procrastination." (pausa) · "ONE word"]`
 
 `[TC]`
 
@@ -95,6 +127,9 @@ And at some point, people online added one word to it: *revenge*. Because that's
 
 ### 3 · Desnormalizar
 
+`[PRON: discipline = DIS-ci-pline ("DÍ-si-plin") · twelve = "tuélv" (sem "i") · assignments = a-SSIGN-ments, g mudo ("a-SSÁIN-ments") · thirty-five = th sem voz · night owl = emendado ("nait-ÁUL") · trained = 1 sílaba ("trêind") · twenty = TWEN-ty]`
+`[ÊNFASE: "was I BORN a night owl? / Or TRAINED to be one?" · "my LIFE has been choosing it for me"]`
+
 `[TC]`
 
 For years, my explanation was simple: I'm just a night person. I have no discipline. I need to put the phone down.
@@ -106,6 +141,9 @@ But here's the thing. I started studying at night when I was twelve. In college,
 So I have to ask myself: was I born a night owl? Or was I trained to be one? Maybe a bit of both. Some people really are wired for late nights. But I don't think my body chose this alone. I think my life has been choosing it for me for more than twenty years.
 
 ### 4 · Por que acontece
+
+`[PRON: evenings = 2 sílabas ("ÍV-nings") · honestly = h mudo ("Á-nest-li")]`
+`[ÊNFASE: "FOUR things" · em cada número, pausa curta depois do "One:", "Two:"...]`
 
 `[TC]`
 
@@ -121,6 +159,9 @@ I get home from work tired, and before anything else, I pick up my phone. Just f
 
 `[BR: louça na pia, potes de marmita, skincare na pia do banheiro]`
 
+`[PRON: courage = COUR-age ("KÂ-ridj") · Hochschild ≈ "HÔUK-shild" · sociologist = so-ci-O-lo-gist ("sou-si-Á-lo-djist") · recognize = REC-og-nize ("RÉ-kog-naiz")]`
+`[ÊNFASE: "EVERY single one of them" · "the SECOND shift"]`
+
 Because after the phone, there's the shower. And skincare. And the dishes. And the lunches for tomorrow. And all the other little things that somehow always end up at night. And I have to find the courage to start every single one of them.
 
 `[TEXT: THE SECOND SHIFT]`
@@ -131,11 +172,17 @@ There's a name for this too. Back in 1989, the sociologist Arlie Hochschild call
 
 `[BR: dedo rolando o feed; "next episode in 5 seconds"]`
 
+`[PRON: designed = de-SIGNED, g mudo ("di-ZÁIND") · decided = -ed com "id" ("di-SÁI-did") · daytime = DAY-time]`
+`[ÊNFASE: "A book has a last page. / A feed DOESN'T."]`
+
 A book has a last page. A feed doesn't. And streaming starts the next episode before I've even decided if I want it. On top of that, the light from screens tells my brain it's still daytime. `[checar fonte]`
 
 **Four: my brain doesn't want to switch off.**
 
 `[TC — mais devagar]`
+
+`[PRON: exhausted = h mudo ("ig-ZÓS-tid") · actively = AC-tive-ly · wired ≈ "UÁI-erd" · switch off = emendado ("suí-tchóf") · stress = sem "i" antes ("stréss", não "istréss")]`
+`[ÊNFASE: "I'm EXHAUSTED. / And I STILL fight to stay awake." · "It's NOT rest."]`
 
 And this is the strangest part. I'm exhausted. And I still fight to stay awake. I keep doing things, I keep scrolling, like I'm actively resisting sleep.
 
@@ -147,6 +194,9 @@ People have a name for this feeling: *tired but wired*. Your body is done, but y
 
 `[TC — mais devagar]`
 
+`[PRON: certainty = CER-tain-ty ("SÂR-tn-ti") · ruined = 2 sílabas ("RÚ-ind") · adults = a-DULTS ou A-dults (as duas valem) · hormones / hunger / harder = h soprado · hours = h mudo ("áuers")]`
+`[ÊNFASE: "Not 'I need a coffee' tired." (muda o tom nas aspas) · "in more ways than ONE"]`
+
 And then I wake up already tired. Not "I need a coffee" tired. Tired the whole day. I don't perform the way I want to at work. I feel sleepy in the afternoon. And every time I go to bed late, there's the same feeling: regret, and the certainty that tomorrow is already a little bit ruined.
 
 Most adults need at least seven hours of sleep. `[checar fonte]` On a lot of nights, I'm not even close.
@@ -154,6 +204,9 @@ Most adults need at least seven hours of sleep. `[checar fonte]` On a lot of nig
 There's another cost I don't talk about much. I'm trying to lose some weight, and I know bad sleep makes that harder. There's research linking short sleep to the hormones that control hunger. `[checar fonte]` So the hours I steal at night, I pay back during the day, in more ways than one.
 
 ### 6 · A virada: a semana em que eu dormi bem
+
+`[PRON: vacation = va-CA-tion ("vei-KÊI-shan") · nature = NA-ture ("NÊI-tcher") · forgotten = for-GOT-ten · probably = PROB-ab-ly ("PRÁ-ba-bli") · three hundred = th sem voz]`
+`[ÊNFASE: "And I slept. / Easily." (pausas longas) · "The day ended / when it ended." · "NEVER the night. / It was the DAY."]`
 
 `[BR: fotos/vídeos das férias — o parque, árvores, a família]`
 
@@ -173,6 +226,9 @@ So maybe my problem was never the night. It was the day. If the only free time I
 
 ### 7 · O que estou tentando
 
+`[PRON: routine = rou-TINE ("ru-TÍN") · candles = CAN-dles ("KÉN-dls") · helped = 1 sílaba ("hélpt") · worked = 1 sílaba ("uârkt")]`
+`[ÊNFASE: "a rule that ACTUALLY worked" · pausa antes de "The dishes are STILL there."]`
+
 `[TC]`
 
 I'm not going to give you a perfect night routine. I don't have one.
@@ -187,6 +243,9 @@ The hard part is keeping it. Because the rule takes care of the night, but it do
 *Some nights I also use CBD — but that's my own choice, not advice. Please talk to a doctor before trying anything like that.*
 
 ### 8 · Fecho — um cuidado possível + despedida íntima
+
+`[PRON: weeknights = WEEK-nights · weekend = WEEK-end · comments = COM-ments · thirty / three = th sem voz]`
+`[ÊNFASE: "TWO things" · "my time is MINE" · pausa antes de "I see you.", voz mais baixa]`
 
 `[TC — warm]`
 
